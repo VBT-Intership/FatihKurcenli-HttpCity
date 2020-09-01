@@ -6,4 +6,4 @@ EndPoint ( /city.json )
 
 ## How to Work
 
-![CityGif](https://user-images.githubusercontent.com/34714108/91900680-b21a8f00-eca7-11ea-9b8b-fe4581818a4a.gif)
+![resizegif](https://user-images.githubusercontent.com/34714108/91901124-716f4580-eca8-11ea-801d-3ca48f137d7c.gif)
